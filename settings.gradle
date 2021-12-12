@@ -1,0 +1,2 @@
+rootProject.name='Instant Messaging'
+include ':app'
